@@ -1,0 +1,28 @@
+{
+       "install": {
+    "include": [
+      "^package\\.json$",
+      "^\\.env$"
+    ]
+  },
+  "alure": "EgJ5C",
+  "restart": {
+    "exclude": [
+      "^web/"
+    ],
+    "include": [
+      
+    ]
+  },
+  "throttle": 100001,
+  "stuff": ["\\.js$",
+      "\\.json"],
+  "serverNumber": "/785633412793996318/",
+   "key": "qv2lA_MI_5PHiFKf7Ufyb3BlohbufwolT7oICu0YUf_PR0pGg6OYYUMY0YxKRnmsxP6G",
+  "install": {
+   "include": [
+       "^package\\.json$",
+       "^\\.env$"
+    ]
+  }
+}
